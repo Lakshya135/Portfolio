@@ -493,7 +493,7 @@ a:focus {
     position: relative;
     padding: 60px 30px;
     background: #ffffff;
-    border-bottom: 30px solid wheat;
+    border-bottom: 30px solid #F6D155;
 }
 
 .education .edu-col {
@@ -557,8 +557,6 @@ a:focus {
 .education .edu-col p {
     margin: 0;
 }
-
-
 /**********************************/
 /********* Experience CSS *********/
 /**********************************/
